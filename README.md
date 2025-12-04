@@ -9,3 +9,6 @@ A desktop GUI application built with Python that connects to an external API to 
 
 ## Sun Cycle Lookup 
 A lightweight web application built with Flask that allows users to determine accurate astronomical data for any location on Earth. By entering latitude and longitude coordinates, users receive real-time data regarding the sun's cycle.
+
+## ISS Overhead Tracker & Alert System
+A dynamic web application built with Flask that bridges real-time space data with personal notifications. The app tracks the live location of the International Space Station (ISS) and alerts users via email if the station is passing directly overhead (within ±10 degrees of latitude/longitude).
